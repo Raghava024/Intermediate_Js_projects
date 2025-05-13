@@ -52,7 +52,7 @@ A recipe app displaying taco recipes with styling.
    ```bash
    git clone https://github.com/YOUR_USERNAME/intermediate-js-projects.git
    cd intermediate-js-projects
-````
+
 
 2. Install dependencies for any project:
 
@@ -103,7 +103,16 @@ These projects were created to:
 
 Feel free to fork, modify, and submit pull requests. Feedback and suggestions are always welcome!
 
----
+
+
+✅ **Next Step:** Paste this into a file named `README.md` at the root of your project, and then:
+
+```bash
+git add README.md
+git commit -m "Add full project README"
+git push
+````
+
 
 
 
