@@ -1,8 +1,6 @@
 
 
-### ✅ README.md
 
-````markdown
 # Intermediate JavaScript Projects 🚀
 
 This repository contains a collection of hands-on intermediate JavaScript projects designed to strengthen backend and full-stack development skills using Node.js, Express, and EJS.
